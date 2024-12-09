@@ -12,6 +12,9 @@ website:
         text: about.qmd
       - href: refs.qmd
         text: refs.qmd
+      - href: scratch.qmd
+        text: scratch.qmd
+        
     right:
       - icon: github
         href: https://www.github.com
