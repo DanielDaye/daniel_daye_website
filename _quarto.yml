@@ -2,20 +2,27 @@ project:
   type: website
 
 website:
-  title: "website_testing"
+  title: "/daniel_daye/"
   navbar:
+    pinned: true
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: home.qmd
+      - href: about.qmd
+        text: about.qmd
       - href: refs.qmd
-        text: Publications
-
+        text: refs.qmd
+    right:
+      - icon: github
+        href: https://www.github.com
+        
 format:
   html:
-    theme: cosmo
+    theme: flatly
     css: styles.css
-    toc: true
 
 editor: visual
 
+execute: 
+  freeze: auto
+  

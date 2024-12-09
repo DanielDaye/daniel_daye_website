@@ -1,15 +1,16 @@
 ---
-title: "Refs."
+title: "Publications"
 ---
 
-Bruce, M., Daye, D., Long, S. M., Winsor, A. M., Menda, G., Hoy, R. R., & Jakob, E. M. 
-(2021). Attention and distraction in the modular visual system of a jumping spider. 
-Journal of Experimental Biology, 224(8), jeb231035. https://doi.org/10.1242/jeb.231035
-
 Daye, D., De La Parra, R., Vaudo, J., Harvey, J., Harvey, G., Shivji, M., & Wetherbee, 
-B. (2024). Tracking 4 years in the life of a female whale shark shows consistent migrations 
-in the Gulf of Mexico and Caribbean. Marine and Freshwater Research, 75(10). https://doi.org/10.1071/MF23147
+B. (2024). Tracking 4 years in the life of a female whale shark shows consistent 
+migrations in the Gulf of Mexico and Caribbean. Marine and Freshwater Research, 
+75(10). https://doi.org/10.1071/MF23147  
+
+Bruce, M., Daye, D., Long, S. M., Winsor, A. M., Menda, G., Hoy, R. R., & Jakob, 
+E. M. (2021). Attention and distraction in the modular visual system of a jumping 
+spider. Journal of Experimental Biology, 224(8), jeb231035. https://doi.org/10.1242/jeb.231035  
 
 Winsor, A. M., Pagoti, G. F., Daye, D. J., Cheries, E. W., Cave, K. R., & Jakob, 
 E. M. (2021). What gaze direction can tell us about cognitive processes in invertebrates. 
-Biochemical and Biophysical Research Communications, 564, 43–54. https://doi.org/10.1016/j.bbrc.2020.12.001
+Biochemical and Biophysical Research Communications, 564, 43--54. https://doi.org/10.1016/j.bbrc.2020.12.001

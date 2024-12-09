@@ -1,9 +1,37 @@
 ---
-title: "About"
+title: "Daniel Daye <br> ECS Federal, supporting NMFS Atlantic HMS"
 ---
 
-About this site
+# Education  and Research
+### University of Rhode Island
+**Master of Science, Biological and Environmental Sciences**   
+*Ecology and Ecosystems Sciences Specialization*  
+2023
 
-```{r}
-1 + 1
-```
+**Wetherbee Lab, University of Rhode Island**  
+Graduate Researcher and Teaching Assistant  
+2020 - 2023  
+Research utilized satellite telemetry data (SPOT-tagged) from migratory marine 
+megafauna - Whale shark *Rhincodon typus* - and incorporated remote-sensed environmental
+data to develop habitat utilization models using machine learning methodolgy.  
+<br></br>
+
+### University of Massachusetts, Amherst  
+**Jakob Lab**  
+Lab Manager and Research Technician  
+2017 - 2020  
+Research utilized a salticid-specific eyetracker to examine the integration of visual
+and acoustic signals for jumping spider cognition and the behavioral responses to 
+such stimuli
+
+**Bachelor of Science, Biology**  
+*Minor in Environmental Conservation*  
+2017
+
+**Irschick Lab & Digital Life 3D**  
+Undergraduate Researcher & 3D Modeler  
+Assisted Digital Life 3D with the creation of 3D modelled living organisms captured 
+using photogrammetry and Beastcam technology. Undergraduate research utilized organisms 
+imaged via photogrammetry to collect morphometric measurements of *Brachymeles* 
+skinks and reconstruct morphometrically accurate models of *Lepomis* sunfish from 
+photographs.
