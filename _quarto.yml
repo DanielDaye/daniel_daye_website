@@ -17,7 +17,11 @@ website:
         
     right:
       - icon: github
-        href: https://www.github.com
+        menu:
+          - text: Source
+            href: https://github.com/DanielDaye/danieldaye.github.io
+          - text: Report a Bug
+            href: https://github.com/DanielDaye/danieldaye.github.io/issues
         
 format:
   html:
