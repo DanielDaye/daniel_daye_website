@@ -1,1 +1,1 @@
-Sitemap: https://DanielDaye.github.io/daniel_daye_website/sitemap.xml
+Sitemap: https://DanielDaye.github.io/danieldaye.github.io/sitemap.xml
